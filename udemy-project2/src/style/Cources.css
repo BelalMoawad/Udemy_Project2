@@ -1,0 +1,23 @@
+.container {
+    border: 1px solid black;
+    justify-content: start;
+    align-items:flex-start;
+    margin: 3%;
+    padding: 1%;
+}
+
+.Cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items:flex-start;
+    padding: 0;
+    gap:15px;
+}
+
+.container .ButtonPython {
+    background-color: whitesmoke;
+    border-radius: 17%;
+    height: 55px;
+    margin: 10px;
+}
